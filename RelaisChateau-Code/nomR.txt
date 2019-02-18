@@ -1,0 +1,68 @@
+Maison Rostang:Maison Rostang;Le Bistrot d'à Côté Flaubert:
+Restaurant Pierre Orsi:Restaurant Pierre Orsi;Restaurant Cazenove:
+Lucas Carton:Lucas Carton;Le Marché du Lucas:
+Château de Berne (Var):Le Jardin de Benjamin;Le Bistrot:
+Castel Clara Thalasso & Spa (Morbihan):Le 180°;Le Café Clara:
+Abbaye de la Bussière (Côte-d’Or):Gastronomique;Bistrot des Moines:
+Maison Doucet (Saône et Loire):Restaurant Frédéric Doucet;Bistrot du Quai:
+Hôtel et Restaurant Régis et Jacques Marcon (Haute-Loire):Restaurant Régis et Jacques Marcon;La Coulemelle:
+Auberge du Jeu de Paume (Oise):La Table du Connétable;Le Jardin d'Hiver:
+Hôtel Restaurant Clos des Sens - Laurent PETIT (Haute-Savoie):Restaurant Clos des Sens - Laurent PETIT;Café Brunet:
+Le Phébus & Spa - Villa des Anges (Vaucluse):La Table de Xavier Mathieu;Le Café de la Fontaine:
+Château Cordeillan-Bages (Gironde):Restaurant Cordeillan-Bages;Café Lavinal:
+La Bastide de Capelongue (Vaucluse):Restaurant Edouard Loubet;Autres restaurants:
+Michel Trama (Lot-et-Garonne):Restaurant Michel Trama;L'Auberge de la Poule d'Or:
+Au Cœur du Village Hôtel & Spa (Rhône-Alpes):Restaurant Gourmand le Cœur;Restaurant Gastronomique le Cinq:
+La Ferme Saint-Siméon (Calvados):La Ferme Saint-Siméon;Bistro La Boucane:
+Troisgros (Loire):Le Bois sans Feuilles;Autres restaurants:
+Le Petit Nice-Passedat (Bouches-du-Rhône):Le Petit Nice;Le 1917:
+La Chapelle Saint-Martin (Haute-Vienne):La Chapelle Saint Martin;Autres restaurants:
+Monte-Carlo Beach (Alpes-Maritimes):Elsa 1 Michelin star;Autres restaurants:
+La Côte Saint Jacques & Spa (Yonne):La côte saint-jacques;Bien Etre & Saveurs:
+Yoann Conte – Bord du Lac Hôtel Restaurant (Haute-Savoie):Hôtel Restaurant Yoann Conte – Bord du Lac;Yoann Côté Jardin:
+Maison Pic (Drôme):Anne-Sophie Pic - Le Restaurant;André:
+Restaurant Serge Vieira (Cantal):Restaurant Serge Vieira;Sodade:
+Le Saint-James Bouliac (Gironde):Le Saint-James Bouliac;Le Café de L'Espérance:
+Cap d’Antibes Beach Hotel (Alpes-Maritimes):Les Pêcheurs;Le Cap:
+L’Oasis:L’Oasis;Bistrot de L'Oasis:
+Baumanière Hôtel & Spa (Bouches-du-Rhône):L'Oustau de Baumanière;Autres restaurants:
+Les Prés d’Eugénie - Maison Guérard (Landes):Restaurant Michel Guérard;Autres restaurants:
+Maison Lameloise (Saône-et-Loire):Maison Lameloise;Pierre & Jean:
+Le Relais Bernard Loiseau – Spa Loiseau des Sens (Côte-d’Or):Bernard Loiseau;Loiseau des Sens:
+Moulin de l’Abbaye (Dordogne):Moulin de l'Abbaye;Autres restaurants:
+Les Hauts de Loire (Loir-et-Cher):Le Restaurant des Hauts de Loire;Bistrot des Hauts de Loire:
+Relais de la Poste (Landes):Relais de la Poste;L'Auberge Côté Quillier:
+Château de La Chèvre d’Or (Alpes-Maritimes):La Chèvre d'Or;Autres restaurants:
+Hôtel Les Barmes de l'Ours (Savoie):La Table de l'Ours;Autres restaurants:
+Hostellerie de Plaisance (Gironde):La Table de Plaisance;L'Envers du Décor:
+La Bonne Étape (Alpes-de-Haute-Provence):La Bonne Étape;Au Goût du Jour:
+Jiva Hill Resort (Ain):Restaurant Shamwari;Le Jardin:
+Royal Champagne Hotel & Spa (Marne):Le Royal;Autres restaurants:
+La Grenouillère (Pas-de-Calais):La Grenouillère;Froggy's Tavern:
+Château de Germigney (Jura):Château de Germigney;Bistrot le Pontarlier:
+Hôtel Crillon le Brave (Vaucluse):Restaurant La Madeleine;Autres restaurants:
+Le Vieux Logis (Dordogne):Le Vieux Logis;Le Bistrot:
+Hôtel Le Chabichou Restaurants & Spa (Savoie):Le Chabichou;Le Chabotté:
+Le Chambard (Haut-Rhin):La Table d'Olivier Nasti;La Winstub:
+Château de Riell (Pyrénées-Orientales):Restaurant du Châtelain;Café Casals:
+Hôtel Restaurant Auberge du Père Bise – Jean Sulpice (Haute-Savoie):Auberge du Père Bise - Jean Sulpice;Le Bistrot 1903:
+Hôtel Impérial Garoupe (Alpes-Maritimes):Le Pavillon;Pavillon Beach:
+Domaine d’Auriac (Aude):Le restaurant Bernard Rigaudis;Le Bistrot d'Auriac:
+Coquillade Village (Vaucluse):Le Gourmet;Autres restaurants:
+Flocons de Sel (Haute-Savoie):Flocons de Sel;Flocons Village:
+Château de Valmer (Var):La Palmeraie;La Piscine:
+Hostellerie de Levernois (Côte-d’Or):Le Gastronomique;Le Bistrot du Bord de l'Eau:
+Grand Hôtel de Cala Rossa & Spa (Corse):La Table de Cala Rossa;La Pinède:
+La Pyramide Patrick Henriroux (Isère):La Pyramide Patrick Henriroux;L'Espace PH3:
+Georges Blanc Parc & Spa (Ain):Restaurant Gastronomique Georges BLANC;l'Ancienne Auberge 1900:
+Hameau Albert Ier (Haute-Savoie):Albert 1er;La Maison Carrier:
+Domaine Les Crayères (Marne):Le restaurant gastronomique « Le Parc » **;La Brasserie « Le Jardin »:
+Le Couvent des Minimes Hôtel & Spa L'Occitane (Alpes-de-Haute-Provence):Le Cloître;Pesquier:
+Le Mas des Herbes Blanches (Vaucluse):La Table du Mas;Le Bistrot du Mas:
+Le Château de Beaulieu (Pas-de-Calais):Le Meurin;Le Jardin d'Alice:
+Le Mas de Pierre (Alpes-Maritimes):La Table de Pierre;Lis Orto:
+Domaine de la Bretesche Golf & Spa (Loire-Atlantique):Le Montaigu;Le Club:
+Château de Mercuès (Lot):Le Duèze;Le Bistrot du Château:
+La Bastide de Saint-Tropez (Var):L’Olivier;Le Bistro de la Bastide:
+Le Domaine de Verchant (Hérault):Verchant;La Plage dans les Vignes:
+Hôtel & Spa du Castellet (Var):Restaurant Christophe Bacquié;San Felice
